@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Serverless Monitoring Sample
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This is a sample CDK stack that deploys a Lambda function.  It is used to demonstrate how to leverage monitoring, logging, and tracing in the Serverless development learning path on Pluralsight.
 
 ## Useful commands
 
